@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>📫 How to reach me:
 <br> Facebook: @PythonPower1
 <br> daily.dev: @Codessa
-<br>pythonpower.me: Coming soon.
+<br>pythonpower.dev: Coming soon.
 <br>LinkedIn Profile: https://www.linkedin.com/in/amber-mercado-2362b9191/
 <br>Fiverr: https://www.fiverr.com/ambermercado755
 <br>Polywork: https://www.polywork.com/amber_01
